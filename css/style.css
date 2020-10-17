@@ -1,0 +1,18 @@
+body {
+background-color: black;
+text-align: center;
+}
+
+h1 {
+  font-family: helvetica;
+  font-size: 50px;
+  color: white;
+}
+
+p{
+  color: white;
+}
+
+canvas {
+  background-color: gray;
+}
